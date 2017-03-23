@@ -2,21 +2,21 @@
 
 Test cording
 
-##Version
+## Version
 
 * Ruby 2.4.0p0
 * Rails 5.0.2
 * rbenv 1.1.0
 * Bundler 1.14.6
 
-##Database
+## Database
 
 * MySQL
 
-##Source Code
+## Source Code
 
 * Git
 
-##Site
+## Site
 
-[Ruby on Rails Tutorial]:https://railstutorial.jp
+* [Ruby on Rails Tutorial]: https://railstutorial.jp
