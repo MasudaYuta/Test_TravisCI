@@ -1,24 +1,22 @@
-# README
+# development
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Test cording
 
-Things you may want to cover:
+##Version
 
-* Ruby version
+* Ruby 2.4.0p0
+* Rails 5.0.2
+* rbenv 1.1.0
+* Bundler 1.14.6
 
-* System dependencies
+##Database
 
-* Configuration
+* MySQL
 
-* Database creation
+##Source Code
 
-* Database initialization
+* Git
 
-* How to run the test suite
+##Site
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Ruby on Rails Tutorial]:https://railstutorial.jp
