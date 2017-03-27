@@ -19,4 +19,4 @@ Test cording
 
 ## Site
 
-* [Ruby on Rails Tutorial]: https://railstutorial.jp
+* Ruby on Rails Tutorial: https://railstutorial.jp
